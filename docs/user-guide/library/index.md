@@ -79,7 +79,7 @@ After import using "move" your folders might look like this:
 
 
 ### Conclusion ###
-In case you have no organization in your existing photo collection and you assume you have many duplicates on various hard drives.
+In case you have no organization in your existing photo collection and you assume you have many duplicates on various hard drives,
 *Import* is the way to go. It will organize all your photos and videos due to time taken and it will avoid duplicates.
 
-In case you have your photo collection organized nicely in folders and you prefer to keep this organization displayed in the filesystem. *Index* will be the right option for you.
+In case you have your photo collection organized nicely in folders and you prefer to keep this organization displayed in the filesystem, *Index* will be the right option for you.
